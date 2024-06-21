@@ -1,0 +1,36 @@
+✅ Z-PRO ​Passaporte ZDG + Instalador Automático
+
+​​​​​​​​​​​​🔴 É PROIBIDO COMPARTLIHAR ESSA PASTA EM QUALQUER GRUPO, INCLUSIVE NO GRUPO DE ALUNOS. CASO ISSO OCORRA SEU ACESSO SERÁ REMOVIDO!
+
+⚠️ INSTRUÇÕES
+
+1- Descompacte o arquivo usando Winrar: https://www.win-rar.com/start.html?&L=9
+
+2- Antes de iniciar a instalação execute o comando root
+
+​a- sudo apt -y update && apt -y upgrade​
+
+b- reboot
+
+3- Login SUPERADMIN (frontend)
+
+superadmin@zpro.io
+
+123456
+
+
+​O.S.: UBUNTU 20.04 (LTS)
+
+sudo chmod +x ./zpro_passaporte_shell/zpro​
+
+cd ./zpro​_passaporte_shell
+
+sudo ./zpro
+
+CRIAR 2 SUBDOMINIOS E APONTAR PARA O IP DA SUA VPS
+
+FRONTEND_URL: appzpro​.comunidadezdg.com.br
+
+BACKEND_URL:  apizpro​.comunidadezdg.com.br
+
+https://dnschecker.org/
